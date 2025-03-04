@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Torres_de_Hanoi\\Pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Hanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Torres_de_Hanoi\\Hanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Torres_de_Hanoi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Torres_de_Hanoi\\Disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Torres_de_Hanoi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Torres_de_Hanoi\\Pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Hanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Torres_de_Hanoi\\Hanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Program.cs",
               "RelativeDocumentMoniker": "Torres_de_Hanoi\\Program.cs",
               "ToolTip": "C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Program.cs",
               "RelativeToolTip": "Torres_de_Hanoi\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T18:14:37.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Hanoi.cs",
               "DocumentMoniker": "C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Hanoi.cs",
               "RelativeDocumentMoniker": "Torres_de_Hanoi\\Hanoi.cs",
               "ToolTip": "C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Hanoi.cs",
               "RelativeToolTip": "Torres_de_Hanoi\\Hanoi.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswFMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T17:28:43.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Pila.cs",
               "DocumentMoniker": "C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Pila.cs",
               "RelativeDocumentMoniker": "Torres_de_Hanoi\\Pila.cs",
               "ToolTip": "C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Pila.cs",
               "RelativeToolTip": "Torres_de_Hanoi\\Pila.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T17:20:04.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Disco.cs",
               "DocumentMoniker": "C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Disco.cs",
               "RelativeDocumentMoniker": "Torres_de_Hanoi\\Disco.cs",
               "ToolTip": "C:\\Users\\alang\\Dropbox\\GTI_2024-2025\\SEGUNDO CUATRIMESTRE\\ALGOR\u00CDTMICA\\Proyectos\\TorresDeHanoi\\Torres_de_Hanoi\\Disco.cs",
               "RelativeToolTip": "Torres_de_Hanoi\\Disco.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T17:00:36.678Z",
               "EditorCaption": ""
