@@ -1,0 +1,14 @@
+C:\Users\alang\Dropbox\GTI_2024-2025\SEGUNDO CUATRIMESTRE\ALGORÍTMICA\Proyectos\TorresDeHanoi\Torres_de_Hanoi\bin\Debug\net9.0\Torres_de_Hanoi.exe
+C:\Users\alang\Dropbox\GTI_2024-2025\SEGUNDO CUATRIMESTRE\ALGORÍTMICA\Proyectos\TorresDeHanoi\Torres_de_Hanoi\bin\Debug\net9.0\Torres_de_Hanoi.dll.config
+C:\Users\alang\Dropbox\GTI_2024-2025\SEGUNDO CUATRIMESTRE\ALGORÍTMICA\Proyectos\TorresDeHanoi\Torres_de_Hanoi\bin\Debug\net9.0\Torres_de_Hanoi.deps.json
+C:\Users\alang\Dropbox\GTI_2024-2025\SEGUNDO CUATRIMESTRE\ALGORÍTMICA\Proyectos\TorresDeHanoi\Torres_de_Hanoi\bin\Debug\net9.0\Torres_de_Hanoi.runtimeconfig.json
+C:\Users\alang\Dropbox\GTI_2024-2025\SEGUNDO CUATRIMESTRE\ALGORÍTMICA\Proyectos\TorresDeHanoi\Torres_de_Hanoi\bin\Debug\net9.0\Torres_de_Hanoi.dll
+C:\Users\alang\Dropbox\GTI_2024-2025\SEGUNDO CUATRIMESTRE\ALGORÍTMICA\Proyectos\TorresDeHanoi\Torres_de_Hanoi\bin\Debug\net9.0\Torres_de_Hanoi.pdb
+C:\Users\alang\Dropbox\GTI_2024-2025\SEGUNDO CUATRIMESTRE\ALGORÍTMICA\Proyectos\TorresDeHanoi\Torres_de_Hanoi\obj\Debug\net9.0\Torres_de_Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alang\Dropbox\GTI_2024-2025\SEGUNDO CUATRIMESTRE\ALGORÍTMICA\Proyectos\TorresDeHanoi\Torres_de_Hanoi\obj\Debug\net9.0\Torres_de_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\alang\Dropbox\GTI_2024-2025\SEGUNDO CUATRIMESTRE\ALGORÍTMICA\Proyectos\TorresDeHanoi\Torres_de_Hanoi\obj\Debug\net9.0\Torres_de_Hanoi.sourcelink.json
+C:\Users\alang\Dropbox\GTI_2024-2025\SEGUNDO CUATRIMESTRE\ALGORÍTMICA\Proyectos\TorresDeHanoi\Torres_de_Hanoi\obj\Debug\net9.0\Torres_de_Hanoi.dll
+C:\Users\alang\Dropbox\GTI_2024-2025\SEGUNDO CUATRIMESTRE\ALGORÍTMICA\Proyectos\TorresDeHanoi\Torres_de_Hanoi\obj\Debug\net9.0\refint\Torres_de_Hanoi.dll
+C:\Users\alang\Dropbox\GTI_2024-2025\SEGUNDO CUATRIMESTRE\ALGORÍTMICA\Proyectos\TorresDeHanoi\Torres_de_Hanoi\obj\Debug\net9.0\Torres_de_Hanoi.pdb
+C:\Users\alang\Dropbox\GTI_2024-2025\SEGUNDO CUATRIMESTRE\ALGORÍTMICA\Proyectos\TorresDeHanoi\Torres_de_Hanoi\obj\Debug\net9.0\Torres_de_Hanoi.genruntimeconfig.cache
+C:\Users\alang\Dropbox\GTI_2024-2025\SEGUNDO CUATRIMESTRE\ALGORÍTMICA\Proyectos\TorresDeHanoi\Torres_de_Hanoi\obj\Debug\net9.0\ref\Torres_de_Hanoi.dll
