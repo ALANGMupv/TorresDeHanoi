@@ -6,52 +6,57 @@ namespace Torres_de_Hanoi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("El Gran Juego de las Torres de Hanoi\n");
+            Console.WriteLine("El Gran Juego de las Torres de Hanoi");
+            Console.WriteLine("\n3 torres");
 
-            // Definir número de discos
-            Console.Write("Indica el número de discos... ");
-            int n;
-            while (!int.TryParse(Console.ReadLine(), out n) || n <= 0)
-            {
-                Console.Write("Por favor, introduce un número entero positivo: ");
-            }
+            Console.WriteLine("\nIndica el número de discos...");
+            int n = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"\nHas seleccionado {n} discos\n");
+            Console.WriteLine($"\nHas seleccionado {n} discos");
 
-            // Inicialización de las pilas
+            Console.WriteLine("\nIndica I para Iterativo o R para Recursivo...");
+            string metodo = Console.ReadLine().ToUpper();
+
+            Hanoi juego = new Hanoi();
+
             Pila ini = new Pila();
             Pila aux = new Pila();
             Pila fin = new Pila();
 
-            // Agregar los discos en orden decreciente al palo INI
+            // Inicializar la torre inicial con discos
             for (int i = n; i >= 1; i--)
             {
                 ini.push(new Disco(i));
             }
 
-            // Mostrar estado inicial
-            Console.WriteLine("Situación inicial");
-            MostrarEstado(ini, aux, fin);
+            Console.WriteLine("\nSituación inicial");
+            Console.WriteLine($"Torre INI: {ini}");
+            Console.WriteLine($"Torre AUX: {aux}");
+            Console.WriteLine($"Torre FIN: {fin}");
+            Console.WriteLine();
 
-            // Resolver con el método iterativo
-            Hanoi hanoi = new Hanoi();
-            int movimientos = hanoi.iterativo(n, ini, fin, aux);
+            int movimientos = 0;
 
-            // Mostrar número total de movimientos
+            if (metodo == "I")
+            {
+                Console.WriteLine("\nHas seleccionado el método I");
+                movimientos = juego.iterativo(n, ini, fin, aux);
+            }
+            else if (metodo == "R")
+            {
+                Console.WriteLine("\nHas seleccionado el método R");
+                juego.recursivo(n, ini, fin, aux, "Torre INI", "Torre FIN", "Torre AUX");
+                movimientos = juego.GetMovimientos();
+            }
+            else
+            {
+                Console.WriteLine("Opción no válida. Terminando el programa.");
+                return;
+            }
+
             Console.WriteLine($"\nResuelto en {movimientos} movimientos");
-
-            // Mantener la consola abierta hasta que el usuario presione una tecla
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
-        }
-
-        // Método para mostrar el estado de las pilas en consola
-        static void MostrarEstado(Pila ini, Pila aux, Pila fin)
-        {
-            Console.WriteLine("Torre INI: " + ini);
-            Console.WriteLine("Torre AUX: " + aux);
-            Console.WriteLine("Torre FIN: " + fin);
-            Console.WriteLine();
         }
     }
 }
